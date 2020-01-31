@@ -1,5 +1,5 @@
 # A starter program for Python with Tkinter
-
+# bruh sign out u stupid 
 from tkinter import * # import Tkinter library
 from tkinter import Menu
 from tkinter.ttk import Progressbar
